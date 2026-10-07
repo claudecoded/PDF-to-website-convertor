@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+# Ignore generated output files so they don't clutter your GitHub commits
+pdf_website.html
